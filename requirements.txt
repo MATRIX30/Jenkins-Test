@@ -1,0 +1,13 @@
+selenium
+Django==3.1.4
+django-with-asserts==0.0.1
+psycopg2
+requests
+urllib3
+dj-database-url
+gunicorn
+dj-static
+python-decouple
+whitenoise
+django-pwa
+pillow

@@ -1,8 +1,2 @@
-# Jenkins-Test
-This is just a repo to test functioning of Jenkins
-Ok lets get started ddjj
-Doing another Modification hello
-testing holy test mike pense
-micheal
-jackson
-didijd
+# Groupe1_INF4077
+This is the Official repository of Groupe 1 INFO 4077
