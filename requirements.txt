@@ -10,4 +10,4 @@ python-decouple
 whitenoise
 django-pwa
 pillow
-pendulum
+
