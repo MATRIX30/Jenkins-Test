@@ -9,5 +9,4 @@ dj-static
 python-decouple
 whitenoise
 django-pwa
-pillow
 
